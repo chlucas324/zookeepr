@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/chlucas324/zookeepr#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "install": "^0.13.0"
   }
 }
